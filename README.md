@@ -1,5 +1,10 @@
 # 💫 About Me:
-🙋‍♂️ Hey there! My name is Roshan Shaik and I am an 🤖 AI enthusiast with a focus on 🧠 deep learning. I am constantly seeking new opportunities to learn and grow, and am excited to collaborate with others on research projects that push the boundaries of what is possible in the field. With a love for coding and a natural curiosity for how things work, I have spent thousands of 💻 coding hours honing my skills and developing my expertise in deep learning. When I'm not busy training neural networks or writing code, you can find me 🤔 thinking about new ways to apply my skills and make a positive impact in the world of AI. If you're looking for someone who is 🔥 passionate, driven, and always ready to roll up their sleeves and get to work, then look no further! Feel free to check out my GitHub profile 🔍 to see some of my past projects and get in touch if you're interested in collaborating 🤝. I look forward to working with you and making a difference in the world of AI, one line of code at a time 💪.
+🙋‍♂️ Hey there! My name is Roshan Shaik
+
+I build backend systems and AI stuff that actually runs in production.
+Mostly working with APIs, data pipelines, and LLM integrations—figuring things out as I go and optimizing where it matters. I like keeping things simple, fast, and practical over over-engineered.
+Java, Python, Typescript, Vector databases, event driven systems. Ship first, refine later.
+Still learning, but I don’t stay stuck for long.
 
 
 ## 🌐 Socials:
